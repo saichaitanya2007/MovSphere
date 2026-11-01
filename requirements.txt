@@ -1,0 +1,16 @@
+# This project has no Python dependencies.
+#
+# It is a React/Vite frontend and a Spring Boot/Java backend.
+# Installing this file with pip will intentionally install nothing.
+#
+# Frontend dependencies:
+#   cd shipex
+#   npm install
+#
+# Backend dependencies:
+#   cd backend
+#   mvn clean install
+#
+# Required tools:
+#   Node.js + npm (frontend)
+#   Java 17 + Maven (backend)
